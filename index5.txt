@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 these are the changes done in local.
+=======
+Changes done in git directly. 
+>>>>>>> b06aa1f9ee4c8047114a51a00c82e75353e71b06
