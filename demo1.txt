@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+these are the changes done in demo1 file.
+=======
+Hello you are in branch file named branch_1 and in demo1 file.
+>>>>>>> 96e943abf8e2f53fcd9ece71c65d4d3a30df76f9
